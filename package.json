@@ -6,6 +6,19 @@
   "engines": {
     "vscode": "^1.96.0"
   },
+  "publisher": "alexander-deleo",
+	"author": {
+		"name": "Alexander-Deleeck"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Alexander-Deleeck/copy-code-and-filename"
+	},
+	"icon": "images/copy-code-with-extension-icon.png",
+	"galleryBanner": {
+		"color": "#232323",
+		"theme": "dark"
+	},
   "categories": [
 		"Formatters",
 		"Other"
